@@ -1,0 +1,7 @@
+a:link{
+    text-decoration: none;
+}
+.active{
+    font-size: 1.6rem;
+    color: white !important;
+}
